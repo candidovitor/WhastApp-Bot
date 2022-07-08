@@ -27,9 +27,6 @@ git clone https://github.com/candidovitor/WhastApp-Bot
 python app.py
 ```
 
-## Front end web
-Pré-requisitos: HTML5 e CSS3
-
 # Autor
 
 Vitor Cândido Rodrigues
